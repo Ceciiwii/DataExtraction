@@ -1,0 +1,6 @@
+Package: DataExtraction
+Version: 2.0
+Architecture: all
+Maintainer: Cecilia Matus <cecilia.matus@innovex.cl>
+Description: Automatically download data
+
